@@ -1,0 +1,6 @@
+{
+  "name": "Feedback Mentari",
+  "description": "AI Auto Reply Diskusi Mahasiswa - Bulk academic feedback generator for faculty portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
